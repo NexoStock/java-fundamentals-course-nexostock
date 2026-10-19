@@ -1,6 +1,6 @@
 # Lección 1: ¿Qué es Java y la programación?
 
-- **Duración del video publicado:** 8 minutos y 13 segundos
+- **Duración estimada:** 8 minutos y 13 segundos
 - **Herramienta:** OnlineGDB
 - **Práctica:** `starter-files/lesson-01`
 
@@ -8,7 +8,7 @@
 
 Comprender qué significa programar, conocer el lenguaje Java, identificar las partes principales de un editor en línea y ejecutar un primer programa.
 
-**Indicaciones de producción:** Los tiempos por escena son referenciales y deben ajustarse al montaje real. El apartado *Pantalla* describe lo que debe mostrarse; el apartado *Narración* contiene el texto preparado para la voz virtual Camila de Clipchamp. Las instrucciones Java se mantienen escritas correctamente en pantalla, pero se pronuncian fonéticamente durante la narración.
+**Indicaciones de producción:** Los tiempos por escena son referenciales y deben ajustarse al montaje real. La sección *Pantalla* describe lo que debe mostrarse; la sección *Narración* contiene el texto preparado para la voz virtual Camila de Clipchamp. Las instrucciones Java se mantienen escritas correctamente en pantalla, pero se pronuncian fonéticamente durante la narración.
 
 ---
 
@@ -199,12 +199,3 @@ En la siguiente lección aprenderemos a guardar información utilizando variable
 ## Repositorio del curso
 
 https://github.com/NexoStock/java-fundamentals-course-nexostock
-
-## Lista de verificación antes de aprobar
-
-- [ ] Confirmar que la narración generada en Clipchamp pronuncie correctamente las instrucciones Java.
-- [ ] Verificar que las pantallas descritas coincidan con las que aparecen en el video.
-- [ ] Comprobar que la práctica incluya la tarjeta, el cronómetro y los 30 segundos de silencio.
-- [ ] Comprobar que aparezca la tarjeta final con tres ideas y la siguiente lección.
-- [ ] Ajustar las marcas de tiempo al montaje real del video.
-- [ ] Confirmar que el video final tenga una duración mínima de cinco minutos.

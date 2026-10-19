@@ -1,6 +1,6 @@
 # Lección 2: Variables, tipos de datos y operadores
 
-- **Duración del video publicado:** 5 minutos y 24 segundos
+- **Duración estimada:** 5 minutos y 24 segundos
 - **Herramienta:** OnlineGDB
 - **Práctica:** `starter-files/lesson-02`
 
@@ -8,7 +8,7 @@
 
 Comprender qué son las variables en Java, identificar los tipos de datos básicos y utilizar operadores matemáticos para realizar cálculos y mostrar resultados en la consola.
 
-**Indicaciones de producción:** Las marcas de tiempo son una propuesta de distribución y deben comprobarse con el video real. El apartado **Pantalla** explica qué mostrar, escribir y resaltar. El apartado **Narración** contiene el texto preparado para Camila, la voz virtual de Clipchamp. Los términos técnicos se escriben correctamente en el código, pero se adaptan fonéticamente en la narración.
+**Indicaciones de producción:** Las marcas de tiempo son una propuesta de distribución y deben comprobarse con el video real. La sección **Pantalla** explica qué mostrar, escribir y resaltar. La sección **Narración** contiene el texto preparado para Camila, la voz virtual de Clipchamp. Los términos técnicos se escriben correctamente en el código, pero se adaptan fonéticamente en la narración.
 
 ---
 
@@ -132,7 +132,11 @@ Utilizar `edad = 15` para esta demostración. Mostrar los resultados 30, 7, 7.5 
 
 **Narración:**
 
-Los operadores matemáticos nos permiten hacer cálculos. Tenemos suma, resta, multiplicación y división. También existe el operador porcentaje, que obtiene el resto de una división. Por ejemplo, quince multiplicado por dos da treinta. Si dividimos quince entre dos números enteros, obtenemos siete porque Java descarta la parte decimal. Para conservar los decimales, podemos realizar la operación utilizando un valor decimal de tipo dóbol. Así obtenemos siete punto cinco.
+Los operadores matemáticos nos permiten hacer cálculos. Tenemos suma, resta, multiplicación y división. También existe el operador porcentaje, que obtiene el resto de una división.
+
+Por ejemplo, quince multiplicado por dos da treinta. Si dividimos quince entre dos, ambos números enteros, obtenemos siete porque Java descarta la parte decimal en una división de enteros.
+
+Para conservar los decimales, podemos realizar la operación utilizando un valor decimal de tipo dóbol. Así obtenemos siete punto cinco.
 
 ### Escena 8 · 3:26–3:48 · Reglas para nombrar variables
 
@@ -149,7 +153,7 @@ Resaltar «Nombres claros y sin espacios».
 
 **Narración:**
 
-Cuando creamos variables debemos utilizar nombres fáciles de entender. No pueden comenzar con números ni contener espacios. También recomendamos evitar tildes y la letra eñe. Por ejemplo, nombre Completo, escrito sin espacio y con la segunda palabra iniciando con mayúscula, es un nombre más descriptivo que utilizar una sola letra.
+Cuando creamos variables debemos utilizar nombres fáciles de entender. No pueden comenzar con números ni contener espacios. También recomendamos evitar tildes y la letra eñe. Por ejemplo, nombreCompleto, escrito sin espacios y con la segunda palabra iniciando con mayúscula, es un nombre más descriptivo que utilizar una sola letra.
 
 ### Escena 9 · 3:48–5:08 · Práctica del estudiante
 
@@ -202,12 +206,3 @@ Hoy aprendimos a utilizar variables, reconocer diferentes tipos de datos y reali
 ## Repositorio del curso
 
 https://github.com/NexoStock/java-fundamentals-course-nexostock
-
-## Lista de verificación antes de aprobar
-
-- [ ] Comprobar que Camila pronuncie «dóbol» y «búlean» correctamente.
-- [ ] Confirmar que las instrucciones de pantalla correspondan al video.
-- [ ] Verificar la tarjeta de práctica y los 60 segundos de silencio.
-- [ ] Confirmar la tarjeta de cierre con tres ideas y la siguiente lección.
-- [ ] Ajustar las marcas de tiempo al video real o actualizar el montaje.
-- [ ] Mantener el video final por encima de los cinco minutos.
