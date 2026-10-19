@@ -1,117 +1,213 @@
 # Lección 2: Variables, tipos de datos y operadores
 
-**Duración:** 5 minutos y 24 segundos aproximadamente  
+**Duración del video publicado:** 5 minutos y 24 segundos
 **Herramienta:** OnlineGDB  
 **Práctica:** `starter-files/lesson-02`
 
 ## Objetivo
 
-Comprender qué son las variables en Java, identificar los tipos de datos básicos y aprender a utilizar operadores matemáticos para realizar cálculos y mostrar resultados en la consola.
+Comprender qué son las variables en Java, identificar los tipos de datos básicos y utilizar operadores matemáticos para realizar cálculos y mostrar resultados en la consola.
 
-## Contenido de la lección
+**Indicaciones de producción:** Las marcas de tiempo son una propuesta de distribución y deben comprobarse con el video real. El apartado **Pantalla** explica qué mostrar, escribir y resaltar. El apartado **Narración** contiene el texto preparado para Camila, la voz virtual de Clipchamp. Los términos técnicos se escriben correctamente en el código, pero se adaptan fonéticamente en la narración.
 
-### Escena 1: Introducción y repaso
+---
 
-**Pantalla:** Presentación de la Lección 2 y breve repaso del programa «Hola, mundo!» de la lección anterior.
+### Escena 1 · 0:00–0:24 · Introducción y repaso
 
-**Narración:**
+**Pantalla:**
 
-Bienvenido a la segunda lección de nuestro curso de Java. En la lección anterior aprendimos a mostrar mensajes en la consola. Ahora conoceremos las variables, los tipos de datos y los operadores que nos permitirán guardar información y realizar cálculos.
+Mostrar la tarjeta «Lección 2 de 7: Variables, tipos de datos y operadores».
 
-### Escena 2: ¿Qué es una variable?
-
-**Pantalla:** Explicación del concepto de variable mediante el ejemplo de una caja que almacena un dato, como la edad de una persona.
+Presentar brevemente el código «Hola, mundo!» de la lección anterior y su resultado en la consola.
 
 **Narración:**
 
-Una variable es como una caja que permite guardar información. Cada variable tiene un nombre y almacena un valor. Por ejemplo, podemos crear una variable llamada edad y guardar el número quince. Cuando sea necesario, podemos modificar ese valor sin crear una variable nueva.
+Bienvenido a la segunda lección de nuestro curso de Java. En la lección anterior aprendimos a mostrar mensajes en la consola. Hoy conoceremos las variables, los tipos de datos y los operadores matemáticos. Con ellos podremos guardar información y realizar nuestros primeros cálculos.
 
-### Escena 3: ¿Cómo declarar una variable?
+### Escena 2 · 0:24–0:54 · ¿Qué es una variable?
 
-**Pantalla:** Mostrar la declaración `int edad = 15;` e identificar el tipo de dato, el nombre de la variable, el signo igual y el valor asignado.
+**Pantalla:**
 
-**Narración:**
+Mostrar una caja con la etiqueta «edad» y el número 15 en su interior.
 
-Para crear una variable en Java debemos indicar el tipo de dato, escribir el nombre de la variable y asignarle un valor mediante el signo igual. Por ejemplo, int edad igual a quince. Aquí, int representa un número entero y edad es el nombre de la variable. Recuerda que la instrucción termina con punto y coma.
-
-### Escena 4: Cambiar el valor de una variable
-
-**Pantalla:** Mostrar cómo se modifica la variable `edad`, cambiando su valor de 15 a 16, y presentar los resultados en la consola.
+Animar el cambio del número 15 a 16. Resaltar el texto «Variable = caja con nombre».
 
 **Narración:**
 
-Una variable puede cambiar su valor durante la ejecución de un programa. Si inicialmente la edad es quince, podemos actualizarla a dieciséis escribiendo nuevamente su nombre y asignando el nuevo valor. No es necesario repetir el tipo de dato porque la variable ya fue declarada.
+Una variable es como una caja donde podemos guardar información. Cada caja tiene una etiqueta que nos permite identificar su contenido. Por ejemplo, podemos tener una variable llamada edad, donde guardamos el número quince. Lo interesante es que ese valor puede cambiar. Si cumplimos años, podemos actualizarlo a dieciséis sin crear otra variable.
 
-### Escena 5: Tipos de datos en Java
+### Escena 3 · 0:54–1:22 · ¿Cómo declarar una variable?
 
-**Pantalla:** Tabla explicativa de los cuatro tipos de datos utilizados en la lección: `int`, `double`, `String` y `boolean`.
+**Pantalla:**
 
-**Narración:**
+Escribir en el editor:
 
-Java permite almacenar diferentes tipos de información. Int se utiliza para números enteros, como quince. Dóbol permite guardar números decimales, como uno punto sesenta y dos. Estring almacena textos, como el nombre Alex. Finalmente, búlean permite representar valores verdaderos o falsos mediante true y false.
+```java
+int edad = 15;
+```
 
-### Escena 6: Unir textos y variables
-
-**Pantalla:** Mostrar ejemplos de concatenación mediante `System.out.println`, utilizando variables como `nombre` y `edad`.
-
-**Narración:**
-
-En Java, el signo más no solamente sirve para sumar números. También podemos utilizarlo para unir textos con variables. Por ejemplo, podemos mostrar un mensaje con el nombre de una persona o su edad. Esta operación se conoce como concatenación y permite presentar información de manera más clara en la consola.
-
-### Escena 7: Operadores matemáticos
-
-**Pantalla:** Presentación de los operadores `+`, `-`, `*`, `/` y `%`, acompañados de ejemplos de suma, resta, multiplicación, división y cálculo del resto.
+Resaltar sucesivamente `int`, `edad`, `=`, `15` y `;`. Añadir etiquetas: «tipo», «nombre», «asignación», «valor» y «fin de instrucción».
 
 **Narración:**
 
-Los operadores matemáticos permiten realizar diferentes cálculos en Java. El signo más sirve para sumar, el menos para restar, el asterisco para multiplicar y la barra para dividir.
+Para crear una variable en Java necesitamos indicar el tipo de dato, su nombre y el valor que queremos guardar. Observa este ejemplo: int edad igual a quince. La palabra int indica que almacenaremos un número entero. Edad es el nombre de la variable, y quince es el valor asignado. Al final colocamos un punto y coma.
 
-También tenemos el operador módulo, representado por el porcentaje, que permite obtener el resto de una división.
+### Escena 4 · 1:22–1:45 · Cambiar el valor de una variable
 
-Debemos recordar que, al dividir dos números enteros, Java devuelve únicamente la parte entera del resultado. Para obtener decimales, podemos utilizar un número de tipo double.
+**Pantalla:**
 
-### Escena 8: Reglas para nombrar variables
+Mostrar primero `int edad = 15;` y después `edad = 16;`.
 
-**Pantalla:** Comparación de nombres de variables correctos e incorrectos, como `edad`, `nombreCompleto`, `2amigos` y `mi edad`.
-
-**Narración:**
-
-Al crear variables debemos utilizar nombres claros y fáciles de comprender. Los nombres no pueden comenzar con números ni contener espacios. Además, es recomendable utilizar nombres descriptivos y evitar las tildes y la letra eñe. Por ejemplo, nombreCompleto es más comprensible que utilizar solamente una letra.
-
-### Escena 9: Práctica del estudiante
-
-**Pantalla:** Ejercicio Starter en OnlineGDB con las variables `nombre` y `edad`, y tres actividades pendientes.
+Resaltar que en la segunda instrucción no se repite `int`. Mostrar la salida de la consola correspondiente al nuevo valor.
 
 **Narración:**
 
-Ahora te toca practicar. Abre el enlace Starter que encontrarás en la descripción del video.
+Las variables también pueden actualizarse. Si queremos cambiar la edad de quince a dieciséis, escribimos su nombre y asignamos el nuevo valor. No necesitamos repetir el tipo de dato porque la variable ya fue creada. Así, Java utilizará el valor actualizado.
 
-Primero, crea una variable de tipo double llamada altura y muestra su valor en la consola.
+### Escena 5 · 1:45–2:22 · Tipos de datos en Java
 
-Segundo, crea una variable de tipo boolean llamada estudiante y muestra su contenido.
+**Pantalla:**
 
-Tercero, calcula cuántos meses has vivido multiplicando tu edad por doce.
+Mostrar una tabla con cuatro tipos y ejemplos:
 
-Cuando termines, presiona Run para ejecutar tu programa y verificar los resultados.
+| Tipo | Uso | Ejemplo |
+|---|---|---|
+| `int` | Número entero | `15` |
+| `double` | Número decimal | `1.62` |
+| `String` | Texto | `"Alex"` |
+| `boolean` | Verdadero o falso | `true` |
 
-Si necesitas ayuda, puedes consultar el ejercicio Completed después de intentar resolver las actividades por tu cuenta.
+En el editor, escribir las variables correspondientes, resaltando cada tipo mientras se explica.
+
+**Narración:**
+
+Java permite guardar distintos tipos de información. Int almacena números enteros, como quince. Dóbol permite almacenar números decimales, como uno punto sesenta y dos. Estring se utiliza para guardar textos, como el nombre Alex, que escribimos entre comillas. Finalmente, búlean representa valores verdaderos o falsos. Recuerda que cada tipo de dato tiene una función diferente y nos ayuda a organizar mejor nuestra información.
+
+### Escena 6 · 2:22–2:48 · Unir textos y variables
+
+**Pantalla:**
+
+Mostrar este ejemplo:
+
+```java
+System.out.println("Nombre: " + nombre);
+System.out.println("Edad: " + edad);
+```
+
+Resaltar el signo `+` y añadir «Con texto: unir». Mostrar en la consola:
+
+```text
+Nombre: Alex
+Edad: 15
+```
+
+**Narración:**
+
+En Java, el signo más tiene dos usos importantes. Cuando trabajamos con números, sirve para sumar. Pero cuando trabajamos con textos, nos permite unir información. A esto lo llamamos concatenación. Así podemos mostrar un mensaje con el nombre o la edad de una persona de forma clara y ordenada.
+
+### Escena 7 · 2:48–3:26 · Operadores matemáticos
+
+**Pantalla:**
+
+Mostrar los operadores:
+
+| Operador | Operación |
+|---|---|
+| `+` | Suma |
+| `-` | Resta |
+| `*` | Multiplicación |
+| `/` | División |
+| `%` | Resto de una división |
+
+Resaltar en el editor:
+
+```java
+int doble = edad * 2;
+int mitad = edad / 2;
+double mitadExacta = edad / 2.0;
+int resto = edad % 4;
+```
+
+Utilizar `edad = 15` para esta demostración. Mostrar los resultados 30, 7, 7.5 y 3.
+
+**Narración:**
+
+Los operadores matemáticos nos permiten hacer cálculos. Tenemos suma, resta, multiplicación y división. También existe el operador porcentaje, que obtiene el resto de una división. Por ejemplo, quince multiplicado por dos da treinta. Si dividimos quince entre dos números enteros, obtenemos siete porque Java descarta la parte decimal. Para conservar los decimales, podemos realizar la operación utilizando un valor decimal de tipo dóbol. Así obtenemos siete punto cinco.
+
+### Escena 8 · 3:26–3:48 · Reglas para nombrar variables
+
+**Pantalla:**
+
+Mostrar ejemplos con símbolos verdes y rojos:
+
+- Correcto: `edad`
+- Correcto: `nombreCompleto`
+- Incorrecto: `2amigos`
+- Incorrecto: `mi edad`
+
+Resaltar «Nombres claros y sin espacios».
+
+**Narración:**
+
+Cuando creamos variables debemos utilizar nombres fáciles de entender. No pueden comenzar con números ni contener espacios. También recomendamos evitar tildes y la letra eñe. Por ejemplo, nombre Completo, escrito sin espacio y con la segunda palabra iniciando con mayúscula, es un nombre más descriptivo que utilizar una sola letra.
+
+### Escena 9 · 3:48–5:08 · Práctica del estudiante
+
+**Pantalla:**
+
+Mostrar una tarjeta amarilla con el aviso:
+
+**⏸️ Pausa el video y practica**
+
+Presentar las tres actividades:
+
+1. Crear una variable `double` llamada `altura`.
+2. Crear una variable `boolean` llamada `estudiante`.
+3. Calcular los meses vividos multiplicando `edad * 12`.
+
+Mostrar el enlace Starter y un cronómetro visible de **60 segundos**. Durante el cronómetro no debe haber narración.
+
+**Narración:**
+
+Ahora te toca practicar. Abre el enlace Starter de la descripción. Primero, crea una variable dóbol llamada altura. Después, una variable búlean llamada estudiante. Finalmente, calcula los meses vividos multiplicando tu edad por doce. Muestra los resultados en la consola y presiona Run. ¡Tú puedes hacerlo!
+
+**[Silencio de práctica: 60 segundos. Mostrar cronómetro y las tres instrucciones.]**
 
 **Starter:** https://onlinegdb.com/EYA0I23Yb
 
 **Completed:** https://onlinegdb.com/e05iEvVF7
 
-### Escena 10: Conclusiones
+### Escena 10 · 5:08–5:24 · Conclusiones
 
-**Pantalla:** Resumen de los conceptos aprendidos: variables, tipos de datos y operadores matemáticos. Presentación del tema de la siguiente lección.
+**Pantalla:**
+
+Mostrar una tarjeta titulada:
+
+**Lo que aprendiste hoy**
+
+- Una variable permite guardar información.
+- `int`, `double`, `String` y `boolean` representan distintos tipos de datos.
+- Los operadores matemáticos permiten realizar cálculos.
+
+En la parte inferior:
+
+**Siguiente: Lección 3 — Decisiones y bucles**
 
 **Narración:**
 
-En esta lección aprendimos que las variables permiten almacenar información, que Java utiliza distintos tipos de datos y que los operadores matemáticos nos ayudan a realizar cálculos.
+Hoy aprendimos a utilizar variables, reconocer diferentes tipos de datos y realizar operaciones matemáticas. En la próxima lección descubriremos cómo tomar decisiones y repetir instrucciones con Java. ¡Nos vemos pronto!
 
-En la siguiente lección aprenderemos a tomar decisiones y repetir instrucciones utilizando estructuras de control.
-
-¡Nos vemos pronto!
+---
 
 ## Repositorio del curso
 
 https://github.com/NexoStock/java-fundamentals-course-nexostock
+
+## Lista de verificación antes de aprobar
+
+- [ ] Comprobar que Camila pronuncie «dóbol» y «búlean» correctamente.
+- [ ] Confirmar que las instrucciones de pantalla correspondan al video.
+- [ ] Verificar la tarjeta de práctica y los 60 segundos de silencio.
+- [ ] Confirmar la tarjeta de cierre con tres ideas y la siguiente lección.
+- [ ] Ajustar las marcas de tiempo al video real o actualizar el montaje.
+- [ ] Mantener el video final por encima de los cinco minutos.
