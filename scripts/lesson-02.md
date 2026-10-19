@@ -1,8 +1,8 @@
 # Lección 2: Variables, tipos de datos y operadores
 
-**Duración del video publicado:** 5 minutos y 24 segundos
-**Herramienta:** OnlineGDB  
-**Práctica:** `starter-files/lesson-02`
+- **Duración del video publicado:** 5 minutos y 24 segundos
+- **Herramienta:** OnlineGDB
+- **Práctica:** `starter-files/lesson-02`
 
 ## Objetivo
 

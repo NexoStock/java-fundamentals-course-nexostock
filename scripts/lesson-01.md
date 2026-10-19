@@ -1,8 +1,8 @@
 # Lección 1: ¿Qué es Java y la programación?
 
-**Duración del video publicado:** 8 minutos y 13 segundos
-**Herramienta:** OnlineGDB  
-**Práctica:** `starter-files/lesson-01`
+- **Duración del video publicado:** 8 minutos y 13 segundos
+- **Herramienta:** OnlineGDB
+- **Práctica:** `starter-files/lesson-01`
 
 ## Objetivo
 
