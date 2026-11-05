@@ -104,3 +104,9 @@ Tu turno. Pausa el video y abre el link de la práctica. Primero, escribe un if 
 
 **Narración:**
 Muy bien. Hoy tu programa aprendió a decidir con if y els, y a repetir con for y guáil. En la lección siguiente aprenderás a organizar tu código en métodos y a conversar con el usuario, pidiéndole datos. Nos vemos.
+
+---
+
+## Repositorio del curso
+
+https://github.com/NexoStock/java-fundamentals-course-nexostock
