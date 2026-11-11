@@ -201,9 +201,7 @@ Ahora te toca a ti. Abre el enlace Starter de la descripción. Ahí ya está la 
 
 **[Silencio de práctica: 90 segundos. Mostrar cronómetro y las tres instrucciones.]**
 
-**Starter:** <<LINK-EDITOR-L5-STARTER>>
 
-**Completed:** <<LINK-EDITOR-L5-COMPLETED>>
 
 ### Escena 10 · 8:20–8:50 · Conclusiones
 
@@ -230,3 +228,8 @@ Excelente trabajo. Hoy aprendiste que una clase es un molde y un objeto es lo qu
 ## Repositorio del curso
 
 https://github.com/NexoStock/java-fundamentals-course-nexostock
+
+## Enlaces de práctica verificados en el plan
+
+- **Starter:** https://onlinegdb.com/jFV0FlGWt
+- **Completed:** https://onlinegdb.com/4hrZk1ox5

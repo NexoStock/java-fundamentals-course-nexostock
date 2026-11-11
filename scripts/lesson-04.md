@@ -1,4 +1,4 @@
-﻿# Lección 4: Métodos y entrada de datos
+# Lección 4: Métodos y entrada de datos
 
 **Duración:** ~8 minutos · **Herramienta:** OnlineGDB (editor en línea) · **Práctica:** `starter-files/lesson-04`
 
@@ -100,3 +100,8 @@ Excelente. Hoy aprendiste que un método es una tarea con nombre, que voi hace a
 ## Repositorio del curso
 
 https://github.com/NexoStock/java-fundamentals-course-nexostock
+
+## Enlaces de práctica verificados en el plan
+
+- **Starter:** https://onlinegdb.com/7OKjzEcrg
+- **Completed:** https://onlinegdb.com/oPTjaj_KF

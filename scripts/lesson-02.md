@@ -177,9 +177,7 @@ Ahora te toca practicar. Abre el enlace Starter de la descripción. Primero, cre
 
 **[Silencio de práctica: 60 segundos. Mostrar cronómetro y las tres instrucciones.]**
 
-**Starter:** https://onlinegdb.com/EYA0I23Yb
 
-**Completed:** https://onlinegdb.com/e05iEvVF7
 
 ### Escena 10 · 5:08–5:24 · Conclusiones
 
@@ -206,3 +204,8 @@ Hoy aprendimos a utilizar variables, reconocer diferentes tipos de datos y reali
 ## Repositorio del curso
 
 https://github.com/NexoStock/java-fundamentals-course-nexostock
+
+## Enlaces de práctica verificados en el plan
+
+- **Starter:** https://onlinegdb.com/kBRXm3MJy
+- **Completed:** https://onlinegdb.com/naEfYc66U

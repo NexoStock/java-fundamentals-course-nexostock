@@ -8,13 +8,13 @@ El plan completo del curso, con los videos y los enlaces de cada práctica, est�
 
 | N.º | Lección | Duración aprox. | Práctica |
 |---|---|---|---|
-| 1 | ¿Qué es Java y la programación? | 6 min | Hola, mundo |
-| 2 | Variables, tipos de datos y operadores | 7 min | Variables y operadores |
-| 3 | Estructuras de control: decisiones y bucles | 8 min | Decisiones y bucles |
-| 4 | Métodos y entrada de datos | 8 min | Métodos y `Scanner` |
-| 5 | Clases y objetos: tu primera mascota virtual | 9 min | Mascota virtual |
-| 6 | Encapsulación, arreglos y tu primer programa | 11 min | Registro de estudiantes |
-| 7 | Errores comunes, buenas prácticas y próximos pasos | 9 min | Corrige el programa |
+| 1 | ¿Qué es Java y la programación? | 7 min 28 s | Hola, mundo |
+| 2 | Variables, tipos de datos y operadores | 10 min 31 s | Variables y operadores |
+| 3 | Estructuras de control: decisiones y bucles | 9 min 11 s | Decisiones y bucles |
+| 4 | Métodos y entrada de datos | 6 min 09 s | Métodos y `Scanner` |
+| 5 | Clases y objetos: tu primera mascota virtual | 6 min 03 s | Mascota virtual |
+| 6 | Encapsulación, arreglos y tu primer programa | 7 min 15 s | Registro de estudiantes |
+| 7 | Errores comunes, buenas prácticas y próximos pasos | 5 min 59 s | Corrige el programa |
 
 ## Cómo usar este curso
 

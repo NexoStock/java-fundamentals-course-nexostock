@@ -1,4 +1,4 @@
-﻿# Lección 3: Estructuras de control: decisiones y bucles
+# Lección 3: Estructuras de control: decisiones y bucles
 
 **Duración:** ~8 minutos · **Herramienta:** OnlineGDB (editor en línea) · **Práctica:** `starter-files/lesson-03`
 
@@ -110,3 +110,8 @@ Muy bien. Hoy tu programa aprendió a decidir con if y els, y a repetir con for 
 ## Repositorio del curso
 
 https://github.com/NexoStock/java-fundamentals-course-nexostock
+
+## Enlaces de práctica verificados en el plan
+
+- **Starter:** https://onlinegdb.com/t1kObfrQQ
+- **Completed:** https://onlinegdb.com/WlJu2b9uJ
