@@ -164,9 +164,7 @@ Cuando termines, presiona Run y comprueba que aparezcan los mensajes correctamen
 
 **Enlaces de práctica:**
 
-**Starter:** https://onlinegdb.com/trZ1wkCFr
 
-**Completed:** https://onlinegdb.com/R561qaqMQ
 
 ### Escena 8 · 7:28–8:13 · Conclusiones
 
@@ -199,3 +197,8 @@ En la siguiente lección aprenderemos a guardar información utilizando variable
 ## Repositorio del curso
 
 https://github.com/NexoStock/java-fundamentals-course-nexostock
+
+## Enlaces de práctica verificados en el plan
+
+- **Starter:** https://onlinegdb.com/czfku0bZ_
+- **Completed:** https://onlinegdb.com/pw1mdZHD1

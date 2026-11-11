@@ -98,3 +98,8 @@
 
 **Voz:**
 > Y llegamos al final del curso. En siete lecciones aprendiste qué es Java, a guardar datos con variables, a decidir y repetir, a crear métodos, a usar clases y objetos, a proteger tus datos y a encontrar errores. ¿Qué sigue? Primero, practica creando tus propios programas: un juego de adivinanzas, un registro de tus amigos, lo que se te ocurra. Segundo, visita la documentación oficial de Java: en la descripción tienes el link. Y tercero, sigue aprendiendo sobre clases y objetos, que es la base de casi todo en Java. Gracias por completar el curso, y sigue practicando.
+
+## Enlaces de práctica verificados en el plan
+
+- **Starter:** https://onlinegdb.com/b7-OKiz1XT
+- **Completed:** https://onlinegdb.com/hXj1imdqn

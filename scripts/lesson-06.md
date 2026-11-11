@@ -358,3 +358,8 @@ En la última lección te mostraré
 los errores más comunes
 y cómo encontrarlos rápido.
 Hasta pronto.
+
+## Enlaces de práctica verificados en el plan
+
+- **Starter:** https://onlinegdb.com/Zo7DAnLHa
+- **Completed:** https://onlinegdb.com/lQ0qkJ07K
